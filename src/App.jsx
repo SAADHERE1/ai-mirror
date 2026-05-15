@@ -1,0 +1,1 @@
+import React from 'react';\nimport RealisticAIMirror from './components/RealisticAIMirror';\nimport './App.css';\n\nfunction App() {\n  return (\n    <div className=\"App\">\n      <RealisticAIMirror />\n    </div>\n  );\n}\n\nexport default App;\n
